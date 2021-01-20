@@ -38,7 +38,7 @@
 
                     <div class="content">
                         <div class="mt-5 text-gray-600 dark:text-gray-400 text-sm">
-                           <font size="7" face="Verdana"> UM DIA SERA QUE VAI SAIR ALGUMA COISA DE BOM ISSO AQUI?</font>
+                           <font size="7" face="Verdana">PROJETO DE SISTEMAS EM DESENVOLVIMENTO</font>
                         </div>
 
                     </div>

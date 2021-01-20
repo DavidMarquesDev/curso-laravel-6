@@ -2,6 +2,11 @@
 
 use Illuminate\Support\Facades\Route;
 
+
+    Route::get('{any}', function () {
+        return view('app');
+    })->where('any', '.*');
+    /*
     Route::get('/login', function () {
         return 'login';
     })->name('login');
@@ -20,4 +25,4 @@ use Illuminate\Support\Facades\Route;
         Route::get('/produtos', function () {
             return view('produtos');
         });
-    });
+    });*/
